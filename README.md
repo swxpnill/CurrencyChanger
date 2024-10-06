@@ -36,4 +36,4 @@ To run the project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/currency-converter.git
+   https://github.com/swxpnill/CurrencyChanger.git
